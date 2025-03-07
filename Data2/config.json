@@ -1,5 +1,0 @@
-{
-    "data_path": "./income_case_study.csv",
-    "model_path": "./xgb_model.joblib",
-    "seed": 42
-}
